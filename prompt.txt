@@ -1,0 +1,13 @@
+Suppose a rectangle and line overlap. If the rectangle is deleted, how do you ensure the line remains visible?
+
+What is the time complexity of deleting a shape?
+
+If MAX_SHAPES = 100, what happens when the 101st shape is added?
+
+Why is input validation necessary in get_int()?
+
+Can the same shape be modified without deleting it first?
+
+Why did you choose a 2D character array instead of a linked list or matrix of structures?
+
+How would you implement Undo/Redo in this project?
